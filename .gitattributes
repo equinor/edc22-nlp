@@ -1,2 +1,0 @@
-transformers_cache/* filter=lfs diff=lfs merge=lfs -text
-hf_datasets_cache/* filter=lfs diff=lfs merge=lfs -text
